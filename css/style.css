@@ -206,3 +206,38 @@ body.active {
     height: 100%;
 }
 
+footer{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    color: red;
+    max-width: 500px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.code{ 
+    margin-left: 30px;
+   
+}
+
+.code a{
+    text-decoration: none;
+    color: red;
+    cursor: pointer;
+    
+}
+
+.video{
+    margin-left: 30px;
+    margin-bottom: 10px;
+
+}
+
+.video a{
+    text-decoration: none;
+    color: red;
+    cursor: pointer;
+}
+
+
